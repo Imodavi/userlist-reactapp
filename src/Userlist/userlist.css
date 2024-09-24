@@ -1,0 +1,33 @@
+/* src/UserList.css */
+
+.user-list-container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 10px 0;
+    border-radius: 5px;
+  }
+  
+  h3 {
+    margin: 0;
+    color: #333;
+  }
+  
+  p {
+    margin: 5px 0;
+  }
+  
